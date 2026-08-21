@@ -1,3 +1,0 @@
-C:/pucp/P2/Lab1/SobrecargaDeAlummnos/cmake-build-debug/CMakeFiles/SobrecargaDeAlummnos.dir
-C:/pucp/P2/Lab1/SobrecargaDeAlummnos/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/pucp/P2/Lab1/SobrecargaDeAlummnos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
