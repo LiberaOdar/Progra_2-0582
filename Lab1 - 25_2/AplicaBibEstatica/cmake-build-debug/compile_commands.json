@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/AplicaBibEstatica/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE  -LD:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/AplicaBibEstatica/Biblioteca -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\AplicaBibEstatica.dir\\main.cpp.obj -c D:\\PUCP\\LP1\\2026-2\\Ejemplos\\Ejercicios\\AplicaBibEstatica\\main.cpp",
+  "file": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/AplicaBibEstatica/main.cpp",
+  "output": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/AplicaBibEstatica/cmake-build-debug/CMakeFiles/AplicaBibEstatica.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/AplicaBibEstatica/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE  -LD:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/AplicaBibEstatica/Biblioteca -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\AplicaBibEstatica.dir\\Biblioteca\\Funciones.cpp.obj -c D:\\PUCP\\LP1\\2026-2\\Ejemplos\\Ejercicios\\AplicaBibEstatica\\Biblioteca\\Funciones.cpp",
+  "file": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/AplicaBibEstatica/Biblioteca/Funciones.cpp",
+  "output": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/AplicaBibEstatica/cmake-build-debug/CMakeFiles/AplicaBibEstatica.dir/Biblioteca/Funciones.cpp.obj"
+}
+]

@@ -1,0 +1,7 @@
+    INF263                     Algoritmia
+INGA_FLORES_CESAR_ADOLFO
+Numero Presenciales:  1
+Numero Semipresencial:0
+Numero Virtual:  0
+La clase se dictara en aula
+

@@ -1,0 +1,49 @@
+    INF263                     Algoritmia
+INGA_FLORES_CESAR_ADOLFO
+Numero Presenciales:  7
+Numero Semipresencial:5
+Numero Virtual:  5
+La clase se dictara virtual
+
+    MEC270        Procesos_De_Manufactura
+PAIRAZAMAN_ALAMO_MOISES_MIGUEL
+Numero Presenciales:  9
+Numero Semipresencial:10
+Numero Virtual:  2
+La clase se dictara virtual
+
+    MEC289 Turbomaquinas_Y_Maquinas_De_Desplazamiento_Positivo
+DELGADO_GONZALES_GUILLERMO_ALFONSO
+Numero Presenciales:  9
+Numero Semipresencial:6
+Numero Virtual:  0
+La clase se dictara en aula
+
+    MAT241 Metodos Numericos En Ingenieria
+HERNANDEZ_BARRIOS_EMILIO
+Numero Presenciales:  13
+Numero Semipresencial:8
+Numero Virtual:  2
+La clase se dictara en aula
+
+    MEC206                Termodinamica 1
+SALAS_AGUERO_DANIEL
+Numero Presenciales:  10
+Numero Semipresencial:4
+Numero Virtual:  1
+La clase se dictara en aula
+
+    INF246                 Bases De Datos
+MEJIA_DIAZ_BLANCA_MILAGROS
+Numero Presenciales:  13
+Numero Semipresencial:8
+Numero Virtual:  4
+La clase se dictara en aula
+
+    FIS220 Tecnicas Computacionales En Fisica
+VASQUEZ_PAZ_ALEX_MARTIN
+Numero Presenciales:  13
+Numero Semipresencial:6
+Numero Virtual:  2
+La clase se dictara en aula
+
