@@ -1,3 +1,0 @@
-D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios de Clases/Sobrecargas/cmake-build-debug/CMakeFiles/Sobrecargas.dir
-D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios de Clases/Sobrecargas/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios de Clases/Sobrecargas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
