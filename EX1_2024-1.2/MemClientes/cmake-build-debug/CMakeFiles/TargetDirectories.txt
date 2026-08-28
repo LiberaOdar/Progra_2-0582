@@ -1,0 +1,3 @@
+C:/pucp/P2/EX1_2024-1.2/MemClientes/cmake-build-debug/CMakeFiles/MemClientes.dir
+C:/pucp/P2/EX1_2024-1.2/MemClientes/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/pucp/P2/EX1_2024-1.2/MemClientes/cmake-build-debug/CMakeFiles/rebuild_cache.dir

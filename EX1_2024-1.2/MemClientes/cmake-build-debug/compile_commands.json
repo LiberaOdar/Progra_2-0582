@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/pucp/P2/EX1_2024-1.2/MemClientes/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\MemClientes.dir\\main.cpp.obj -c C:\\pucp\\P2\\EX1_2024-1.2\\MemClientes\\main.cpp",
+  "file": "C:/pucp/P2/EX1_2024-1.2/MemClientes/main.cpp",
+  "output": "C:/pucp/P2/EX1_2024-1.2/MemClientes/cmake-build-debug/CMakeFiles/MemClientes.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/pucp/P2/EX1_2024-1.2/MemClientes/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\MemClientes.dir\\Bibllioteca\\Funciones.cpp.obj -c C:\\pucp\\P2\\EX1_2024-1.2\\MemClientes\\Bibllioteca\\Funciones.cpp",
+  "file": "C:/pucp/P2/EX1_2024-1.2/MemClientes/Bibllioteca/Funciones.cpp",
+  "output": "C:/pucp/P2/EX1_2024-1.2/MemClientes/cmake-build-debug/CMakeFiles/MemClientes.dir/Bibllioteca/Funciones.cpp.obj"
+}
+]
