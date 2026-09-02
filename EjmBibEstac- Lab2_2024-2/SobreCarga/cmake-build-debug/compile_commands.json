@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/EjemploBibliotecaEstatica/SobreCarga/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\SobreCarga.dir\\main.cpp.obj -c D:\\PUCP\\LP1\\2026-2\\Ejemplos\\Ejercicios\\EjemploBibliotecaEstatica\\SobreCarga\\main.cpp",
+  "file": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/EjemploBibliotecaEstatica/SobreCarga/main.cpp",
+  "output": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/EjemploBibliotecaEstatica/SobreCarga/cmake-build-debug/CMakeFiles/SobreCarga.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/EjemploBibliotecaEstatica/SobreCarga/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\SobreCarga.dir\\Biblioteca\\Funciones.cpp.obj -c D:\\PUCP\\LP1\\2026-2\\Ejemplos\\Ejercicios\\EjemploBibliotecaEstatica\\SobreCarga\\Biblioteca\\Funciones.cpp",
+  "file": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/EjemploBibliotecaEstatica/SobreCarga/Biblioteca/Funciones.cpp",
+  "output": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/EjemploBibliotecaEstatica/SobreCarga/cmake-build-debug/CMakeFiles/SobreCarga.dir/Biblioteca/Funciones.cpp.obj"
+}
+]

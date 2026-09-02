@@ -1,0 +1,3 @@
+D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/EjemploBibliotecaEstatica/SobreCarga/cmake-build-debug/CMakeFiles/SobreCarga.dir
+D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/EjemploBibliotecaEstatica/SobreCarga/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/EjemploBibliotecaEstatica/SobreCarga/cmake-build-debug/CMakeFiles/rebuild_cache.dir
