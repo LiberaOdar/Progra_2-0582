@@ -1,0 +1,20 @@
+[
+{
+  "directory": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/ListaGenerica/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\ListaGenerica.dir\\main.cpp.obj -c D:\\PUCP\\LP1\\2026-2\\Ejemplos\\Ejercicios\\ListaGenerica\\main.cpp",
+  "file": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/ListaGenerica/main.cpp",
+  "output": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/ListaGenerica/cmake-build-debug/CMakeFiles/ListaGenerica.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/ListaGenerica/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\ListaGenerica.dir\\Biblioteca\\BibliotecaGenerica.cpp.obj -c D:\\PUCP\\LP1\\2026-2\\Ejemplos\\Ejercicios\\ListaGenerica\\Biblioteca\\BibliotecaGenerica.cpp",
+  "file": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/ListaGenerica/Biblioteca/BibliotecaGenerica.cpp",
+  "output": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/ListaGenerica/cmake-build-debug/CMakeFiles/ListaGenerica.dir/Biblioteca/BibliotecaGenerica.cpp.obj"
+},
+{
+  "directory": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/ListaGenerica/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\ListaGenerica.dir\\Biblioteca\\BibliotecaEnteros.cpp.obj -c D:\\PUCP\\LP1\\2026-2\\Ejemplos\\Ejercicios\\ListaGenerica\\Biblioteca\\BibliotecaEnteros.cpp",
+  "file": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/ListaGenerica/Biblioteca/BibliotecaEnteros.cpp",
+  "output": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/ListaGenerica/cmake-build-debug/CMakeFiles/ListaGenerica.dir/Biblioteca/BibliotecaEnteros.cpp.obj"
+}
+]
