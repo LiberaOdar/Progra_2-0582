@@ -1,0 +1,564 @@
+  79464412                          PORTUGAL RAFFO ALEXANDER     10000
+     NSM-2832    1873.62
+JXD-139     4    2344.08
+MTF-868     6    5829.54
+16552775  YALLICO PAREDES LOURDES CARMELA                   20000     
+AWB-345     6    4802.22
+CNN-411     5    11481.5
+20864087  ZEGARRA CASANOVA ESTEFANIA                        10000     
+JFC-432     1    307.67
+JDQ-505     6    9433.86
+YUQ-590     5    9895.35
+SPR-580     1    404.35
+94326707  CHANG SEGURA ANGEL                                10000     
+73786035  ORTIZ EPIQUEN HENRY ISRAEL                        20000     
+AQS-362     1    233.05
+DEN-125     4    2249.84
+31193794  GARCIA YINO AMERICO WALDEMAR                      5000      
+JDC-028     1    30.48
+96659352  BRAVO VIZCARRA ROBERTO                            10000     
+ADX-669     4    4957.52
+GBJ-693     3    942.6
+KQQ-136     3    3418.68
+57690875  NORABUENA VILLEGAS ARTURO RAFAEL                  20000     
+CSZ-863     5    8567.85
+CIM-038     3    7633.92
+XLF-273     4    9487.8
+XTE-383     6    1566.06
+69975105  VALDERRAMA MENDOZA LUIS ADOLFO                    10000     
+WZD-331     6    7282.74
+HFM-021     6    4361.46
+54761731  LOYOLA IBEROS ANGEL GUSTAVO                       20000     
+DEV-433     3    8096.22
+ZVA-180     4    11612.5
+FVB-607     5    14765.4
+VZV-827     1    1784.27
+OTS-581     5    13265.5
+67418025  MOSCOSO SUELDO MARINA                             10000     
+QUU-384     1    2545.54
+FEG-454     2    3391.4
+YYU-726     6    4606.92
+77642521  SORIA CASTILLO LUIS GUSTAVO                       20000     
+QUU-384     5    12727.7
+DFJ-952     5    16713.8
+YYU-726     2    1535.64
+35584593  LAM VIZCARDO MILAGROS YVONNE                      20000     
+SSD-176     4    2270.84
+AVM-258     4    11324.9
+KCO-488     1    679.6
+43053402  BENAVENTE ZIMIC MADELEINE ZKENIA                  5000      
+YOT-530     2    1883.46
+VRR-793     2    483.42
+84165595  SALAMANCA GAVIDIA ALEX                            10000     
+DFJ-952     1    3342.77
+RDT-761     6    5429.7
+HFM-021     6    4361.46
+JFC-432     3    923.01
+QHC-492     4    7628.92
+89298238  ALFARO PRECIADO JOHNNY                            10000     
+PFD-286     2    5552.04
+QTK-083     3    8048.19
+QFP-254     2    361.3
+UJV-290     4    9693.04
+YOT-530     4    3766.92
+YOT-530     1    941.73
+JXD-139     3    1758.06
+ICX-503     3    3663.06
+71984468  IPARRAGUIRRE VILLEGAS NICOLAS EDILBERTO           20000     
+PQH-935     2    188.9
+JJN-837     5    9899.6
+TZY-323     1    2341.01
+29847168  ALDAVE ZEVALLOS ROSARIO                           5000      
+BCK-361     1    1872.53
+79475585  RETTO ARCA ANNIE MAGDA                            10000     
+BWD-036     5    5431.7
+KQQ-136     6    6837.36
+91897732  GAMARRA ALCOCER VIRGINIA                          20000     
+TMN-884     2    621.3
+XZR-640     5    11952.9
+WLL-607     1    1525.04
+PFD-286     2    5552.04
+33397650  RONDON EGUSQUIZA CARMELA VALENTINA                10000     
+IHG-413     3    953.1
+VJI-529     6    6616.02
+83236386  RIVERO CORRALES JUAN FERNANDO                     10000     
+MTF-868     2    1943.18
+OPT-996     2    2734.96
+OFS-384     1    805.22
+32821689  ZAVALETA EPIQUEN CARMEN ZKENIA                    10000     
+ONB-903     3    1961.01
+MMA-577     5    8901.5
+MTF-868     5    4857.95
+ISU-815     1    619.89
+45783712  POZO CHUNG RAFAEL DEL                             10000     
+YUQ-590     2    3958.14
+QFR-958     3    4822.38
+VZV-827     1    1784.27
+SSD-176     6    3406.26
+48184351  LOPEZ JAUREGUI ROLANDO                            20000     
+KQA-580     2    5815.84
+TXM-139     1    1092.95
+33713901  VILLEGAS CASTRO SOFIA VIRGINIA                    10000     
+UWA-476     2    2382.78
+VVS-017     1    2599.72
+76388967  GONZALES QUIO ISABEL                              10000     
+SJQ-827     5    8597.8
+DOV-560     2    2406.28
+81114108  ZAMBRANO SHIRAKAWA WILMER                         10000     
+VRR-793     4    966.84
+RBE-789     2    6606.14
+DFF-034     5    1296.25
+OFS-384     3    2415.66
+DUG-251     5    7989.8
+VCL-867     1    699.07
+57263719  PRADO TORREALBA CARMEN JANET                      5000      
+BWD-036     3    3259.02
+OTH-462     5    2655.2
+YOT-530     5    4708.65
+OTH-462     2    1062.08
+DOV-560     4    4812.56
+79140840  TORREALBA ARCA VICTORIA GLENDA                    10000     
+DFF-034     3    777.75
+TYF-885     2    1588.28
+HLR-109     1    439.47
+OTH-462     1    531.04
+TMN-884     5    1553.25
+JXD-139     4    2344.08
+QRC-609     5    9033.3
+71378466  MIYAKE CARO HENRRY EDGAR                          10000     
+BIT-434     4    1500.36
+FVQ-662     2    2121.36
+ARS-231     6    1965.72
+OQI-373     1    906.16
+XSD-310     3    6779.79
+17913944  PALOMARES SANTISTEBAN HENRRY                      5000      
+IHG-413     4    1270.8
+DEN-125     1    562.46
+62566305  ROMERO ALFARO MONICA JOHANA                       10000     
+TYF-885     4    3176.56
+DIQ-718     4    1563.2
+GXF-122     5    5550.8
+AVM-258     1    2831.23
+46462527  LOYOLA MORI NICOLAS FERNANDO                      5000      
+KCO-488     4    2718.4
+KWP-672     3    4875.9
+ISU-815     6    3719.34
+79420973  AURIS JOLAY DIANA                                 5000      
+GXF-122     3    3330.48
+22777006  ASMAD PINTO MARIA LORENA                          10000     
+FCN-617     1    4121.05
+XLF-273     2    4743.9
+43877279  RARAZ SUCHERO ADOLFO                              5000      
+TYF-885     5    3970.7
+SSD-176     4    2270.84
+73535476  AYALA SANCHEZ MARIA TERESA                        10000     
+UWA-476     5    5956.95
+CIM-038     3    7633.92
+LDR-510     2    5403.74
+KJX-387     4    2452.76
+26976877  TORO CUBA DIALY DIANA                             10000     
+VTV-269     4    3417.92
+AFL-718     5    8324.85
+JXD-139     2    1172.04
+KQQ-136     3    3418.68
+YUQ-590     4    7916.28
+XZG-521     3    2112.81
+78078115  TSUKAZAN AMEZQUITA DELIA                          5000      
+DFF-034     2    518.5
+SSD-176     1    567.71
+PJG-338     2    2135.6
+48467976  BENITES SANCHEZ MARGOT DELICIA                    5000      
+41036366  JUSTINO LOYOLA JENNY MAGDA                        5000      
+AQS-362     2    466.1
+31611146  LANDEO LARRIEGA MARTIN                            10000     
+YOT-530     4    3766.92
+FVQ-662     4    4242.72
+XSD-310     1    2259.93
+64394265  SALAZAR GONZALES DAVID RAFAEL                     5000      
+OFS-384     5    4026.1
+YUQ-590     1    1979.07
+50365593  SUAREZ BRAVO MARIELLA TATIANA                     10000     
+AFL-718     5    8324.85
+JDC-028     6    182.88
+LWG-915     3    3304.41
+TMN-884     6    1863.9
+TZY-323     1    2341.01
+VVS-017     3    7799.16
+95751208  CORONEL ZEGARRA FIORELLA                          5000      
+UOD-420     4    3315.76
+BWD-036     3    3259.02
+79372768  BERROCAL YALLICO ANNIE SOFIA                      10000     
+GLC-370     4    2208.96
+QVJ-982     6    8116.56
+SAM-013     1    2275.18
+EUZ-452     5    18119.4
+27912250  CUBA CHUNG ISRAEL EDILBERTO                       10000     
+ICX-503     1    1221.02
+LWG-915     4    4405.88
+QFR-958     3    4822.38
+LWG-915     1    1101.47
+60574154  LOZADA GONZALES JAIME                             20000     
+BWD-036     2    2172.68
+III-576     6    6465.9
+KDA-627     5    7122.3
+35565959  VILCARA RODRIGUEZ ANNIE                           5000      
+BZS-261     1    3087.87
+JXD-139     5    2930.1
+80048864  JUSTINO CASTILLO SANDRO CHRISTIAN                 5000      
+BCK-361     3    5617.59
+RDT-761     5    4524.75
+PPX-620     1    2873.42
+BWD-036     3    3259.02
+96258632  FLORENCIO GARCIA WALTER                           10000     
+CRU-009     2    5311.56
+QHC-492     2    3814.46
+94080926  SORIA CRUZ MADELEINE                              10000     
+TXM-139     5    5464.75
+CIM-038     2    5089.28
+OTW-288     5    5595.9
+SPR-580     5    2021.75
+42157219  LUNA CUEVA RICHARD                                5000      
+OTS-581     5    13265.5
+KCO-488     2    1359.2
+86241107  SANCHEZ EPIQUEN EDGAR MELVIN                      10000     
+CIM-038     2    5089.28
+UXG-019     2    1869.82
+FEG-454     2    3391.4
+26290971  SANTISTEBAN AYALA CAROLA MARITZA                  5000      
+PVZ-181     3    929.31
+TYF-885     3    2382.42
+22280452  GONZALES MALDONADO ZKENIA ERIKA                   10000     
+XSD-310     2    4519.86
+VRR-793     5    1208.55
+UCX-285     3    9872.79
+90365520  PALOMINO ADAMS SANDRO RONALD                      10000     
+KWP-672     6    9751.8
+KBY-991     6    6606.48
+OPJ-039     1    2765.64
+EUZ-452     6    21743.3
+VDD-853     5    5478.35
+40348917  VEGA TSUKAZAN VALENTINA                           10000     
+WZD-331     3    3641.37
+FLJ-040     2    7406.74
+BMJ-772     1    936.32
+DFJ-952     2    6685.54
+VRR-793     3    725.13
+95161027  FALCON POZO WALTER                                5000      
+VJI-529     2    2205.34
+VVS-017     5    12998.6
+OQI-373     1    906.16
+77191257  CORRALES ZUNIGA JENNY                             10000     
+QVJ-982     5    6763.8
+KWP-672     2    3250.6
+TZY-323     3    7023.03
+ZEX-027     6    23062.5
+BWD-036     5    5431.7
+62324793  GAVIDIA MORENO ISRAEL ROLANDO                     5000      
+LDR-510     1    2701.87
+FQG-293     1    2784.31
+16151792  DURAND CASTRO FLOR MARTHA                         10000     
+WZD-331     3    3641.37
+CNQ-172     1    3689.62
+AQS-362     1    233.05
+TZY-323     3    7023.03
+IDO-503     6    23611
+AQS-362     1    233.05
+66409237  CANO DELGADO WILLIAMS                             20000     
+DFF-034     4    1037 
+AWT-354     6    20455.3
+BRD-969     3    7739.16
+UXG-019     4    3739.64
+ICX-503     5    6105.1
+CRU-009     4    10623.1
+63437380  PINTO CABELLO SILVIA FELICITA                     10000     
+PJG-338     2    2135.6
+III-576     5    5388.25
+AWB-345     4    3201.48
+KQA-580     2    5815.84
+YEZ-591     5    6600.15
+95015539  CHANG SAONA RONALD                                10000     
+CSZ-863     2    3427.14
+25171011  CRUZ JUGO SANDRO FAUSTO                           10000     
+VCL-867     3    2097.21
+OPT-996     6    8204.88
+AWB-345     6    4802.22
+CIM-038     1    2544.64
+QRC-609     3    5419.98
+VCL-867     1    699.07
+90237332  ESPINOZA CASTRO YDALI GIOVANA                     10000     
+QFP-254     3    541.95
+PVZ-181     5    1548.85
+OQI-373     1    906.16
+TKM-141     3    1206.72
+87800799  QUIROGA SALAZAR JOHNNY ROBERTO                    10000     
+KWP-672     2    3250.6
+VRR-793     2    483.42
+WZD-331     2    2427.58
+ICX-503     2    2442.04
+BTO-226     3    2589.57
+EUZ-452     2    7247.76
+QRC-609     1    1806.66
+JDC-028     5    152.4
+38637282  TABORI CARBAJAL YDALI MAGDA                       10000     
+OFS-384     1    805.22
+15561764  VILLEGAS CASTRO ALONSO                            10000     
+GBJ-693     2    628.4
+JYQ-045     6    1602.9
+FYF-898     2    2320.92
+RAH-420     4    628.04
+45877001  SORIA VILLA HENRRY                                10000     
+VVS-017     4    10398.9
+PJG-338     2    2135.6
+GBJ-693     5    1571 
+RDT-761     5    4524.75
+KBY-991     6    6606.48
+87813843  AYALA ACUNA RONY ALEX                             10000     
+XSD-310     3    6779.79
+OQI-373     1    906.16
+78757121  ASTETE SOLIS FANNY                                5000      
+OQI-373     3    2718.48
+GXF-122     1    1110.16
+ARS-231     4    1310.48
+KJX-387     4    2452.76
+53166028  CANO CHUNG EMILIO NICOLAS                         10000     
+QHC-492     1    1907.23
+ONB-903     3    1961.01
+TXM-139     3    3278.85
+15210391  QUIROGA CASANOVA BRUNO                            5000      
+OTW-288     3    3357.54
+VXS-438     4    240.44
+HFM-021     1    726.91
+DON-719     2    721.38
+AQS-362     2    466.1
+89429489  SERRANO IPARRAGUIRRE VIRGINIA                     10000     
+VXS-438     1    60.11
+QUU-384     1    2545.54
+UXG-019     1    934.91
+VCL-867     6    4194.42
+BXY-119     3    8148.33
+43488351  MINAYA CERNA LORENA FIORELLA                      20000     
+XLF-273     5    11859.8
+DIQ-718     6    2344.8
+QTK-083     6    16096.4
+73185299  CORTES LANDA SURAMI                               5000      
+OTH-462     3    1593.12
+QFP-254     5    903.25
+36380447  RIVERO RETTO JESUS                                10000     
+OWN-701     5    1104.1
+HLR-109     2    878.94
+97403853  PISCOYA MALCA MARIA MONICA                        5000      
+KQQ-136     6    6837.36
+BCK-361     5    9362.65
+YJD-279     3    3085.29
+GBJ-693     4    1256.8
+13245501  ESCALANTE YINO EDWARD GONZALO                     10000     
+AWB-345     1    800.37
+VXS-438     3    180.33
+ZWF-661     1    2731.61
+QIL-029     2    5981.1
+KJX-387     5    3065.95
+89148118  ZAMBRANO LEYVA ALVARO                             5000      
+TKM-141     6    2413.44
+AFL-718     1    1664.97
+JFC-432     5    1538.35
+93845419  QUIO GAVIDIA DIALY FELICITA                       10000     
+AWB-345     5    4001.85
+NSR-955     2    5182.88
+19829266  TOMASICHE MEJIA MELVIN                            10000     
+TXM-139     3    3278.85
+RDT-761     3    2714.85
+UXG-019     2    1869.82
+26233063  TSUKAZAN AYALA MARINA MAGDA                       10000     
+ZAF-449     2    1632.86
+UWA-476     1    1191.39
+KSO-608     3    2742.51
+JFC-432     4    1230.68
+78922174  ALAMO MEZA ALVARO                                 5000      
+TKM-141     5    2011.2
+EJW-346     6    2158.2
+XBD-314     3    4334.7
+XBD-314     2    2889.8
+OQI-373     3    2718.48
+42798099  ZEGARRA MUNOZ SONIA GUIDA                         10000     
+AQS-362     1    233.05
+TMN-884     5    1553.25
+OQI-373     2    1812.32
+RDT-761     6    5429.7
+79901434  SALAZAR FLORENCIO SANDRO JOHNNY                   10000     
+ZEX-027     2    7687.5
+AHB-459     3    2056.5
+CSZ-863     5    8567.85
+TXM-139     2    2185.9
+50375303  SANCHEZ HUAYANAY DIALY LUCERO                     5000      
+JXD-139     6    3516.12
+AFL-718     1    1664.97
+SJQ-827     2    3439.12
+VXS-438     4    240.44
+55552996  SUCHERO PRECIADO MILAGROS ERICKA                  10000     
+AQS-362     1    233.05
+UXG-019     6    5609.46
+SJD-818     1    3387.75
+FQG-293     1    2784.31
+QTK-083     1    2682.73
+SSD-176     6    3406.26
+45828535  SEDANO MERCADO FIORELLA GLORIA                    10000     
+XSD-310     4    9039.72
+AVM-258     2    5662.46
+44229880  PALOMARES BARRIOS EDWARD CESAR                    5000      
+JXD-139     4    2344.08
+HLR-109     5    2197.35
+59162728  HUAYANAY CORTES GLENDA MARINA                     10000     
+FEG-454     4    6782.8
+88995291  PEREZ TORRES MILAGROS REBECA                      10000     
+MTF-868     3    2914.77
+HLR-109     2    878.94
+73914283  CASANOVA CARBAJAL RICARDO ISRAEL                  10000     
+OBI-353     1    2960.56
+BRD-969     3    7739.16
+44679500  CORREA ARCA HELI                                  5000      
+AWB-345     1    800.37
+59407188  CANALES MOYA ALONSO JULIO                         10000     
+BIT-434     6    2250.54
+OWN-701     1    220.82
+RDT-761     5    4524.75
+LYZ-614     3    10532.5
+27635082  CONTRERAS GUEVARA MARINA                          10000     
+54716824  VALVERDE SEGURA MIGUEL JOSE                       10000     
+SPR-580     3    1213.05
+UDR-957     1    861.7
+ZEX-027     6    23062.5
+40112594  CARO RARAZ CHRISTIAN RONAL                        10000     
+KSO-608     6    5485.02
+BCK-361     2    3745.06
+EBI-299     3    6862.71
+FVQ-662     4    4242.72
+37110873  VERGEL HIJAR JESUS                                5000      
+SSD-176     1    567.71
+GXF-122     2    2220.32
+UWA-476     2    2382.78
+VDD-853     4    4382.68
+83505958  CONTRERAS MEZA ERIKA BLANCA                       10000     
+TYF-885     5    3970.7
+EJW-346     3    1079.1
+MQR-442     1    271.66
+85871751  AYALA LAURA JANET                                 10000     
+MYC-756     2    3013.6
+11602775  HIJAR ARCA ADOLFO                                 10000     
+JJN-837     1    1979.92
+XLF-273     4    9487.8
+JJN-837     2    3959.84
+86402303  RUIZ RUIZ OFELIA DELIA                            10000     
+OQI-373     3    2718.48
+OQI-373     3    2718.48
+HFM-021     6    4361.46
+23928045  ARCA VILCA RONALD                                 10000     
+TMN-884     2    621.3
+TKM-141     5    2011.2
+LWG-915     2    2202.94
+12663268  BARRERA FLORES ENRIQUE                            10000     
+AHB-459     3    2056.5
+YYU-726     4    3071.28
+RAH-420     3    471.03
+BMJ-772     1    936.32
+QFP-254     5    903.25
+42928709  HERNANDEZ MALCA VIRGINIA                          5000      
+NSM-283     5    4684.05
+OQI-373     5    4530.8
+QFP-254     5    903.25
+GLC-370     6    3313.44
+85949265  LEYVA GONZALES CINTHIA                            10000     
+JFC-432     4    1230.68
+YUQ-590     2    3958.14
+VRR-793     5    1208.55
+17972674  PISCOYA PORTUGAL WALDEMAR GUSTAVO                 5000      
+ZWF-661     1    2731.61
+UWA-476     4    4765.56
+UTN-601     1    562.51
+38913831  FUENTES TSUKAZAN PATRICIA OFELIA                  10000     
+YZD-580     1    1582.29
+JFC-432     3    923.01
+FLW-631     3    2457.12
+36008913  CASTILLO ZAMORA VICTOR NESTOR                     5000      
+49087435  GALLO MARTINEZ VICTOR GUILLERMO                   5000      
+VDD-853     2    2191.34
+BCK-361     3    5617.59
+SJQ-827     1    1719.56
+PJG-338     1    1067.8
+AFL-718     1    1664.97
+III-576     2    2155.3
+58187172  SUAREZ ZIMIC MOISES                               10000     
+KBY-991     6    6606.48
+VXS-438     2    120.22
+69324480  FLORES IPARRAGUIRRE HENRRY RICARDO                10000     
+UOD-420     3    2486.82
+VXS-438     3    180.33
+DIQ-718     1    390.8
+VJI-529     1    1102.67
+32565207  RIVERA ZARATE MARINA                              5000      
+IDO-503     6    23611
+UXG-019     4    3739.64
+TKM-141     4    1608.96
+71463316  PRADO CALIXTO KARIN                               10000     
+AWT-354     4    13636.9
+KCO-488     5    3398 
+UWA-476     3    3574.17
+QFP-254     6    1083.9
+86828079  PRECIADO ADAMS ERIKA DELIA                        10000     
+MQR-442     3    814.98
+YGV-332     1    2517.66
+29337157  VIZCARDO YEP GUIDA YOLANDA                        10000     
+ZEX-027     3    11531.2
+HFM-021     4    2907.64
+WZD-331     4    4855.16
+32904023  PRADO FORZANI LOURDES                             5000      
+KJX-387     3    1839.57
+QFP-254     4    722.6
+KQQ-136     1    1139.56
+28390487  IPARRAGUIRRE PAREDES RAUL                         5000      
+GLC-370     2    1104.48
+98589725  FORZANI ANTEZANO OSCAR JOSE                       10000     
+VRR-793     1    241.71
+77484838  EPIQUEN ALAMO NANCY                               5000      
+UWA-476     1    1191.39
+BTO-226     4    3452.76
+AFL-718     1    1664.97
+UDR-957     3    2585.1
+YGV-332     3    7552.98
+88956889  CHUMPITAZ CARBAJAL MARITZA                        10000     
+TMN-884     1    310.65
+YUQ-590     2    3958.14
+HFM-021     6    4361.46
+UWA-476     3    3574.17
+MYC-756     4    6027.2
+UWA-476     6    7148.34
+89863424  SANTISTEBAN BRAVO EDGARD                          5000      
+FVB-607     1    2953.07
+OTH-462     6    3186.24
+99842319  MARTINEZ MARTINEZ CARMELA                         5000      
+DUG-251     2    3195.92
+ZAF-449     1    816.43
+98140264  ALAMO ZEGARRA ISRAEL GUSTAVO                      10000     
+DFF-034     2    518.5
+BRD-969     1    2579.72
+QHC-492     4    7628.92
+69639726  ROJAS PATINO GONZALO JAIR                         5000      
+OPT-996     3    4102.44
+DON-719     1    360.69
+93160528  SANTISTEBAN MARTEL MARTIN LUIS                    5000      
+YYU-726     1    767.82
+DUG-251     2    3195.92
+24995742  MEREL TAVERA WALTER                               5000      
+KCO-488     4    2718.4
+DON-719     3    1082.07
+BWD-036     1    1086.34
+43043986  LOZADA VALVERDE MOISES HENRRY                     10000     
+ZEX-027     1    3843.75
+QFP-254     5    903.25
+SSD-176     5    2838.55
+TXM-139     3    3278.85
+52097922  CUBA DURAND YVONNE                                5000      
+ISU-815     5    3099.45
+OWN-701     2    441.64
+UTN-601     2    1125.02
+MMA-577     2    3560.6
+XZG-521     4    2817.08
