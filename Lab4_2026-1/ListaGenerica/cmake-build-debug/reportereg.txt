@@ -1,0 +1,19 @@
+20250407 570       108                                Axl Rose                                 Canario                                Amarillo
+20250407 660       101                                    Luna                                Labrador                                   Negro
+20251003 750       103                                   Rocky                                 Bulldog                                  Marron
+20251103 570       126                                 Pimpona                               Agapornis                                  Lutino
+20251220 570       125                            Debbie Harry                                 Canario                        Amarillo Mosaico
+20251220 750       109                                    Dali                               Americano                                  Blanco
+20260117 930       108                                Axl Rose                                 Canario                                Amarillo
+20260312 810       109                                    Dali                               Americano                                  Blanco
+20260408 600       101                                    Luna                                Labrador                                   Negro
+20260408 630       104                                    Nala                                   Persa                                    Gris
+20260408 630       103                                   Rocky                                 Bulldog                                  Marron
+20260408 780       111                                   Slash                                 Canario                              Agata Rojo
+20260409 660       105                                    Toby                                  Beagle                                Tricolor
+20260409 690       106                                   Simba                                   Comun                                 Naranja
+20260410 600       102                                   Fenix                                   Ninfa                                  Lutino
+20260410 750       120                            Jon Bon Jovi                                 Canario                        Amarillo Mosaico
+20260411 750       107                                     Max                            PastorAleman                                   Negro
+20260414 570       112                                    Goku                         GoldenRetriever                                  Marron
+20260425 630       110                                  LuisXV                               Siberiano                                   plomo
