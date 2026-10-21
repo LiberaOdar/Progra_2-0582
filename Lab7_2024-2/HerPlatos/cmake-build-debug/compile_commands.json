@@ -1,0 +1,44 @@
+[
+{
+  "directory": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/HerPlatos/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\HerPlatos.dir\\main.cpp.obj -c D:\\PUCP\\LP1\\2026-2\\Ejemplos\\Ejercicios\\HerPlatos\\main.cpp",
+  "file": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/HerPlatos/main.cpp",
+  "output": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/HerPlatos/cmake-build-debug/CMakeFiles/HerPlatos.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/HerPlatos/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\HerPlatos.dir\\Biblioteca\\Producto.cpp.obj -c D:\\PUCP\\LP1\\2026-2\\Ejemplos\\Ejercicios\\HerPlatos\\Biblioteca\\Producto.cpp",
+  "file": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/HerPlatos/Biblioteca/Producto.cpp",
+  "output": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/HerPlatos/cmake-build-debug/CMakeFiles/HerPlatos.dir/Biblioteca/Producto.cpp.obj"
+},
+{
+  "directory": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/HerPlatos/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\HerPlatos.dir\\Biblioteca\\Bebida.cpp.obj -c D:\\PUCP\\LP1\\2026-2\\Ejemplos\\Ejercicios\\HerPlatos\\Biblioteca\\Bebida.cpp",
+  "file": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/HerPlatos/Biblioteca/Bebida.cpp",
+  "output": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/HerPlatos/cmake-build-debug/CMakeFiles/HerPlatos.dir/Biblioteca/Bebida.cpp.obj"
+},
+{
+  "directory": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/HerPlatos/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\HerPlatos.dir\\Biblioteca\\Entrada.cpp.obj -c D:\\PUCP\\LP1\\2026-2\\Ejemplos\\Ejercicios\\HerPlatos\\Biblioteca\\Entrada.cpp",
+  "file": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/HerPlatos/Biblioteca/Entrada.cpp",
+  "output": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/HerPlatos/cmake-build-debug/CMakeFiles/HerPlatos.dir/Biblioteca/Entrada.cpp.obj"
+},
+{
+  "directory": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/HerPlatos/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\HerPlatos.dir\\Biblioteca\\PlatoFondo.cpp.obj -c D:\\PUCP\\LP1\\2026-2\\Ejemplos\\Ejercicios\\HerPlatos\\Biblioteca\\PlatoFondo.cpp",
+  "file": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/HerPlatos/Biblioteca/PlatoFondo.cpp",
+  "output": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/HerPlatos/cmake-build-debug/CMakeFiles/HerPlatos.dir/Biblioteca/PlatoFondo.cpp.obj"
+},
+{
+  "directory": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/HerPlatos/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\HerPlatos.dir\\Biblioteca\\Comanda.cpp.obj -c D:\\PUCP\\LP1\\2026-2\\Ejemplos\\Ejercicios\\HerPlatos\\Biblioteca\\Comanda.cpp",
+  "file": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/HerPlatos/Biblioteca/Comanda.cpp",
+  "output": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/HerPlatos/cmake-build-debug/CMakeFiles/HerPlatos.dir/Biblioteca/Comanda.cpp.obj"
+},
+{
+  "directory": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/HerPlatos/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\HerPlatos.dir\\Biblioteca\\Restaurante.cpp.obj -c D:\\PUCP\\LP1\\2026-2\\Ejemplos\\Ejercicios\\HerPlatos\\Biblioteca\\Restaurante.cpp",
+  "file": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/HerPlatos/Biblioteca/Restaurante.cpp",
+  "output": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/HerPlatos/cmake-build-debug/CMakeFiles/HerPlatos.dir/Biblioteca/Restaurante.cpp.obj"
+}
+]
