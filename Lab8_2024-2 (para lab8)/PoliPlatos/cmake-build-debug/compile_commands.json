@@ -1,0 +1,44 @@
+[
+{
+  "directory": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/PoliPlatos/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\PoliPlatos.dir\\main.cpp.obj -c D:\\PUCP\\LP1\\2026-2\\Ejemplos\\Ejercicios\\PoliPlatos\\main.cpp",
+  "file": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/PoliPlatos/main.cpp",
+  "output": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/PoliPlatos/cmake-build-debug/CMakeFiles/PoliPlatos.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/PoliPlatos/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\PoliPlatos.dir\\Biblioteca\\Producto.cpp.obj -c D:\\PUCP\\LP1\\2026-2\\Ejemplos\\Ejercicios\\PoliPlatos\\Biblioteca\\Producto.cpp",
+  "file": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/PoliPlatos/Biblioteca/Producto.cpp",
+  "output": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/PoliPlatos/cmake-build-debug/CMakeFiles/PoliPlatos.dir/Biblioteca/Producto.cpp.obj"
+},
+{
+  "directory": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/PoliPlatos/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\PoliPlatos.dir\\Biblioteca\\Bebida.cpp.obj -c D:\\PUCP\\LP1\\2026-2\\Ejemplos\\Ejercicios\\PoliPlatos\\Biblioteca\\Bebida.cpp",
+  "file": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/PoliPlatos/Biblioteca/Bebida.cpp",
+  "output": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/PoliPlatos/cmake-build-debug/CMakeFiles/PoliPlatos.dir/Biblioteca/Bebida.cpp.obj"
+},
+{
+  "directory": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/PoliPlatos/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\PoliPlatos.dir\\Biblioteca\\Entrada.cpp.obj -c D:\\PUCP\\LP1\\2026-2\\Ejemplos\\Ejercicios\\PoliPlatos\\Biblioteca\\Entrada.cpp",
+  "file": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/PoliPlatos/Biblioteca/Entrada.cpp",
+  "output": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/PoliPlatos/cmake-build-debug/CMakeFiles/PoliPlatos.dir/Biblioteca/Entrada.cpp.obj"
+},
+{
+  "directory": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/PoliPlatos/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\PoliPlatos.dir\\Biblioteca\\PlatoFondo.cpp.obj -c D:\\PUCP\\LP1\\2026-2\\Ejemplos\\Ejercicios\\PoliPlatos\\Biblioteca\\PlatoFondo.cpp",
+  "file": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/PoliPlatos/Biblioteca/PlatoFondo.cpp",
+  "output": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/PoliPlatos/cmake-build-debug/CMakeFiles/PoliPlatos.dir/Biblioteca/PlatoFondo.cpp.obj"
+},
+{
+  "directory": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/PoliPlatos/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\PoliPlatos.dir\\Biblioteca\\DetallaComanda.cpp.obj -c D:\\PUCP\\LP1\\2026-2\\Ejemplos\\Ejercicios\\PoliPlatos\\Biblioteca\\DetallaComanda.cpp",
+  "file": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/PoliPlatos/Biblioteca/DetallaComanda.cpp",
+  "output": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/PoliPlatos/cmake-build-debug/CMakeFiles/PoliPlatos.dir/Biblioteca/DetallaComanda.cpp.obj"
+},
+{
+  "directory": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/PoliPlatos/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\PoliPlatos.dir\\Biblioteca\\Restaurante.cpp.obj -c D:\\PUCP\\LP1\\2026-2\\Ejemplos\\Ejercicios\\PoliPlatos\\Biblioteca\\Restaurante.cpp",
+  "file": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/PoliPlatos/Biblioteca/Restaurante.cpp",
+  "output": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/PoliPlatos/cmake-build-debug/CMakeFiles/PoliPlatos.dir/Biblioteca/Restaurante.cpp.obj"
+}
+]
