@@ -1,0 +1,100 @@
+  812                          Ensalada Cesar         Sin picante
+  812                         Jugo de Naranja             mediano
+  812                         Jugo de Naranja              grande
+  812                                  Sprite              grande
+  787                       Filete de Pescado Pescado
+  787                          Ensalada Cesar         Sin picante
+  787                              Bruschetta             Picante
+  787                             Quesadillas         Sin picante
+  787                               Coca-Cola             mediano
+  767                             Hamburguesa Carne
+  767                              Bruschetta             Picante
+  738                             Hamburguesa Carne
+  738                            Agua Mineral             mediano
+  738                         Jugo de Naranja              grande
+  738                          Ensalada Cesar         Sin picante
+  738                        Pollo a la Brasa Pollo
+  738                              Strogonoff Carne
+  734                              Strogonoff Carne
+  734                       Filete de Pescado Pescado
+  734                           Pasta Alfredo Lacteos
+  727                           Pasta Alfredo Lacteos
+  727                       Filete de Pescado Pescado
+  727                                  Sprite             mediano
+  706                        Pollo a la Brasa Pollo
+  705                                  Sprite              grande
+  705                                    Cafe             mediano
+  692                        Pollo a la Brasa Pollo
+  692                          Ensalada Cesar             Picante
+  692                                  Nachos             Picante
+  684                        Pollo a la Brasa Pollo
+  465                        Pollo a la Brasa Pollo
+  465                            Lomo Saltado Carne
+  465                             Quesadillas         Sin picante
+  465                          Ensalada Cesar         Sin picante
+  465                                  Nachos             Picante
+  465                                  Sprite             mediano
+  438                        Pollo a la Brasa Pollo
+  438                              Strogonoff Carne
+  438                        Pollo a la Brasa Pollo
+  418                          Ensalada Cesar         Sin picante
+  418                                  Nachos             Picante
+  418                         Jugo de Naranja             pequeno
+  418                               Coca-Cola              grande
+  400                               Guacamole         Sin picante
+  400                               Guacamole             Picante
+  400                                  Sprite             mediano
+  372                               Guacamole         Sin picante
+  372                               Coca-Cola             pequeno
+  364                                 Ceviche Pescado
+  364                        Pollo a la Brasa Pollo
+  364                          Ensalada Cesar             Picante
+  364                         Jugo de Naranja             mediano
+  364                               Coca-Cola             pequeno
+  364                                    Cafe              grande
+  358                             Quesadillas             Picante
+  358                               Guacamole             Picante
+  358                                  Nachos             Picante
+  328                             Hamburguesa Carne
+  328                           Pasta Alfredo Lacteos
+  328                                 Ceviche Pescado
+  328                               Coca-Cola              grande
+  327                             Hamburguesa Carne
+  327                                    Cafe             mediano
+  327                         Jugo de Naranja              grande
+  327                            Agua Mineral              grande
+  327                              Bruschetta         Sin picante
+  299                             Hamburguesa Carne
+  299                                  Nachos             Picante
+  299                               Guacamole         Sin picante
+  228                       Filete de Pescado Pescado
+  228                             Quesadillas             Picante
+  214                                  Sprite             pequeno
+  200                                  Sprite             mediano
+  200                                    Cafe             mediano
+  200                               Coca-Cola             mediano
+  194                          Ensalada Cesar             Picante
+  194                                    Cafe             mediano
+  191                              Strogonoff Carne
+  191                              Bruschetta         Sin picante
+  191                                    Cafe             mediano
+  191                                    Cafe             pequeno
+  180                         Jugo de Naranja             mediano
+  180                         Jugo de Naranja             pequeno
+  180                                    Cafe             mediano
+  180                                  Nachos         Sin picante
+  180                                 Ceviche Pescado
+  169                           Pasta Alfredo Lacteos
+  169                         Jugo de Naranja             mediano
+  161                          Ensalada Cesar         Sin picante
+  161                                  Nachos             Picante
+  161                          Ensalada Cesar             Picante
+  161                             Quesadillas         Sin picante
+  161                               Coca-Cola              grande
+  161                            Agua Mineral             mediano
+  142                            Agua Mineral             pequeno
+  142                             Quesadillas         Sin picante
+  142                              Bruschetta             Picante
+  142                           Pasta Alfredo Lacteos
+  142                        Pollo a la Brasa Pollo
+  142                                    Cafe              grande
