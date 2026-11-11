@@ -1,0 +1,1 @@
+El profesor Cueva hizo una versión del Lab8 del 2024-2 para explicar STL, adaptando la versión del laboratorio. 
