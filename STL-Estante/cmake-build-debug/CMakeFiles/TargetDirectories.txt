@@ -1,0 +1,3 @@
+D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/STL-Estante/cmake-build-debug/CMakeFiles/STL_Estante.dir
+D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/STL-Estante/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/STL-Estante/cmake-build-debug/CMakeFiles/rebuild_cache.dir
