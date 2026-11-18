@@ -1,0 +1,38 @@
+[
+{
+  "directory": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/ListPaquetes/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\ListEmpaques.dir\\main.cpp.obj -c D:\\PUCP\\LP1\\2026-2\\Ejemplos\\Ejercicios\\ListPaquetes\\main.cpp",
+  "file": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/ListPaquetes/main.cpp",
+  "output": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/ListPaquetes/cmake-build-debug/CMakeFiles/ListEmpaques.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/ListPaquetes/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\ListEmpaques.dir\\Biblioteca\\Producto.cpp.obj -c D:\\PUCP\\LP1\\2026-2\\Ejemplos\\Ejercicios\\ListPaquetes\\Biblioteca\\Producto.cpp",
+  "file": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/ListPaquetes/Biblioteca/Producto.cpp",
+  "output": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/ListPaquetes/cmake-build-debug/CMakeFiles/ListEmpaques.dir/Biblioteca/Producto.cpp.obj"
+},
+{
+  "directory": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/ListPaquetes/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\ListEmpaques.dir\\Biblioteca\\Paquete.cpp.obj -c D:\\PUCP\\LP1\\2026-2\\Ejemplos\\Ejercicios\\ListPaquetes\\Biblioteca\\Paquete.cpp",
+  "file": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/ListPaquetes/Biblioteca/Paquete.cpp",
+  "output": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/ListPaquetes/cmake-build-debug/CMakeFiles/ListEmpaques.dir/Biblioteca/Paquete.cpp.obj"
+},
+{
+  "directory": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/ListPaquetes/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\ListEmpaques.dir\\Biblioteca\\Empresa.cpp.obj -c D:\\PUCP\\LP1\\2026-2\\Ejemplos\\Ejercicios\\ListPaquetes\\Biblioteca\\Empresa.cpp",
+  "file": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/ListPaquetes/Biblioteca/Empresa.cpp",
+  "output": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/ListPaquetes/cmake-build-debug/CMakeFiles/ListEmpaques.dir/Biblioteca/Empresa.cpp.obj"
+},
+{
+  "directory": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/ListPaquetes/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\ListEmpaques.dir\\Biblioteca\\Estandar.cpp.obj -c D:\\PUCP\\LP1\\2026-2\\Ejemplos\\Ejercicios\\ListPaquetes\\Biblioteca\\Estandar.cpp",
+  "file": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/ListPaquetes/Biblioteca/Estandar.cpp",
+  "output": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/ListPaquetes/cmake-build-debug/CMakeFiles/ListEmpaques.dir/Biblioteca/Estandar.cpp.obj"
+},
+{
+  "directory": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/ListPaquetes/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\ListEmpaques.dir\\Biblioteca\\Especial.cpp.obj -c D:\\PUCP\\LP1\\2026-2\\Ejemplos\\Ejercicios\\ListPaquetes\\Biblioteca\\Especial.cpp",
+  "file": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/ListPaquetes/Biblioteca/Especial.cpp",
+  "output": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/ListPaquetes/cmake-build-debug/CMakeFiles/ListEmpaques.dir/Biblioteca/Especial.cpp.obj"
+}
+]

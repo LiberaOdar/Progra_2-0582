@@ -1,0 +1,37 @@
+Codigo:    P001
+Distancia: 90
+Urgente
+PR001              Laptop  2.5 3500
+PR002               Mouse  0.3  120
+
+Codigo:    P002
+Distancia: 150
+Temperatura:4
+PR003              Salmon    2  180
+PR004              Cheese  1.5   90
+PR005                Milk    1   25
+
+Codigo:    P003
+Distancia: 200
+Estandar
+PR006             Monitor    5  850
+
+Codigo:    P004
+Distancia: 80
+Temperatura:-5
+PR007            IceCream  1.5   45
+PR008          FrozenMeat    3  120
+
+Codigo:    P005
+Distancia: 350
+Urgente
+PR009            Keyboard  0.8  250
+PR010             Printer    6  950
+PR011              Tablet  0.6 1200
+
+Codigo:    P006
+Distancia: 120
+Temperatura:12
+PR012              Yogurt    1   30
+PR013              Butter  0.5   25
+

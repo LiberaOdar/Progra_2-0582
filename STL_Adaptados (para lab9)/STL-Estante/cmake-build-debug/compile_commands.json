@@ -1,0 +1,26 @@
+[
+{
+  "directory": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/STL-Estante/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\STL_Estante.dir\\main.cpp.obj -c D:\\PUCP\\LP1\\2026-2\\Ejemplos\\Ejercicios\\STL-Estante\\main.cpp",
+  "file": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/STL-Estante/main.cpp",
+  "output": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/STL-Estante/cmake-build-debug/CMakeFiles/STL_Estante.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/STL-Estante/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\STL_Estante.dir\\Biblioteca\\Procesa.cpp.obj -c D:\\PUCP\\LP1\\2026-2\\Ejemplos\\Ejercicios\\STL-Estante\\Biblioteca\\Procesa.cpp",
+  "file": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/STL-Estante/Biblioteca/Procesa.cpp",
+  "output": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/STL-Estante/cmake-build-debug/CMakeFiles/STL_Estante.dir/Biblioteca/Procesa.cpp.obj"
+},
+{
+  "directory": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/STL-Estante/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\STL_Estante.dir\\Biblioteca\\Estante.cpp.obj -c D:\\PUCP\\LP1\\2026-2\\Ejemplos\\Ejercicios\\STL-Estante\\Biblioteca\\Estante.cpp",
+  "file": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/STL-Estante/Biblioteca/Estante.cpp",
+  "output": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/STL-Estante/cmake-build-debug/CMakeFiles/STL_Estante.dir/Biblioteca/Estante.cpp.obj"
+},
+{
+  "directory": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/STL-Estante/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\STL_Estante.dir\\Biblioteca\\Libro.cpp.obj -c D:\\PUCP\\LP1\\2026-2\\Ejemplos\\Ejercicios\\STL-Estante\\Biblioteca\\Libro.cpp",
+  "file": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/STL-Estante/Biblioteca/Libro.cpp",
+  "output": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/STL-Estante/cmake-build-debug/CMakeFiles/STL_Estante.dir/Biblioteca/Libro.cpp.obj"
+}
+]
