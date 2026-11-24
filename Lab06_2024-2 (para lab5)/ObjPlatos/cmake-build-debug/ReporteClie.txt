@@ -1,0 +1,101 @@
+  90367684                            CORONEL CHUMPITAZ HELI                           Villa Maria del Triunfo     13.04   2394.44
+  99774549                          HENRIQUEZ ESPINO BEATRIZ                                         San Borja     17.38   1607.29
+  63640178                   CABRERA CANALES GUILLERMO EDRIC                                 Magdalena del Mar     18.78   1705.38
+  66039166                          LAURA WONG MELVIN HENRRY                                             Rimac         0     661.6
+  20371464                                  CARO POLO SANDRO                            San Juan de Lurigancho     15.28   492.562
+  35606314                  PORTUGAL BENAVENTE JOHANA GLORIA                                        Chorrillos     11.91   4702.24
+  35852072                             JUSTINO CRUZ WILLIAMS                                       Ate Vitarte         0    6163.3
+  51465986                          CAMACHO AGUERO ELIA ROSA                                         La Molina         0        89
+  79100967                           LANDA PISCOYA CHRISTIAN                              San Martin de Porres         0    1067.5
+  72973662                     BENAVENTE AYALA VIRGINIA IRMA                                     Independencia         0    1821.9
+  54149342                     MIYAKE MEREL MADELEINE YLIANA                                   Cercado de Lima         0      1148
+  72330000                     MEDINA VELASQUEZ MILENA JENNY                              San Martin de Porres         0    3454.5
+  31284904                            CORREA VIZCARDO MIGUEL                                             Brena     10.07   2912.47
+  66091742                   AMEZQUITA EPIQUEN EVERT ROBERTO                                             Comas         0    2240.4
+  93961840                         CRUZ FUENTES JOHANA YDALI                           Villa Maria del Triunfo         0    2492.7
+  32538825                             YOSHINARI RIVERA PAUL                                      Pueblo Libre     11.33   6957.49
+  94683380                          ASMAD ACUNA ANNIE OFELIA                                     Independencia     18.03   1615.79
+  59561864                              CHAVEZ PRADO SILVANA                                 Santiago de Surco      10.3   4486.79
+  61061535                     DE LA CUBA ALBERTO PAIRAZAMAN                                      Pueblo Libre         0    3191.6
+  22679759                      GORDILLO YINO YVONNE ROSARIO                                        Los Olivos     19.91   1771.99
+  53420926                        MARTEL ASMAD BRUNO ROBERTO                                       El Agustino         0    5980.2
+  37282858                      HIJAR YEP WILLIAMS CHRISTIAN                                        San Miguel         0     381.5
+  34571095                         CALDERON ORTEGA GUILLERMO                                        Santa Rosa         0    3285.9
+  93282118                             SUAREZ BOLANOS RAFAEL                                        Miraflores         0         0
+  86836066                          IBEROS VALDERRAMA RAFAEL                                       Jesus Maria         0    3546.5
+  57182371                             VILCARA CORREA VICTOR                                 Villa El Salvador         0    7857.5
+  43704548                    VALVERDE BERROCAL RONY GONZALO                                 Magdalena del Mar     10.75    2741.4
+  12484697                           HENRIQUEZ PORTUGAL ALEX                                   Cercado de Lima     15.34    2335.6
+  17299012                              GONZALES ARIAS HENRY                            San Juan de Lurigancho         0     883.9
+  99891737                            RETAMOSO BARRERA OSCAR                                   Cercado de Lima     18.78         0
+  91187814                          MALDONADO FLORIAN JOHANA                                       Santa Anita     16.89   1955.41
+  36471787                          ACUNA YINO ROCIO YOLANDA                                      Pueblo Libre         0    4577.5
+  81647285                    VILLEGAS PALOMINO DORIS FREYSA                            San Juan de Lurigancho      10.9   2780.54
+  15290194                  BARRIOS TOMASICHE CARLOS ALBERTO                                 Villa El Salvador         0    1606.2
+  45914393                   MEJIA HUAYANAY CHRISTIAN ALONSO                                         San Borja     17.53   2555.91
+  54815159                             FLORIAN MORALES YDALI                                      Pueblo Libre     11.82   1603.82
+  85395219                                MOYA ARANDA JOHNNY                            San Juan de Lurigancho     18.72   797.194
+  13731806                        CORTEZ SEGURA CARMELA INES                                             Rimac     13.18         0
+  75100362                                VEGA MUNOZ GONZALO                                      Pueblo Libre         0    2151.4
+  68269451                    HIJAR PAIRAZAMAN JENNY DELICIA                                         La Molina         0    2917.5
+  86988155                   ALAMO PAIRAZAMAN MIGUEL ROBERTO                                       Santa Anita     15.91   2708.45
+  77440060                           CORONADO FIGUEROA JOHAN                                       Santa Anita     15.25   391.291
+  68114999                        RUIZ GORDILLO CAROLA ERIKA                                             Comas     10.51   568.172
+  92275859                    CALIXTO TOMASICHE MONICA DORIS                                       El Agustino         0    2514.7
+  28992638                      ANTEZANO SEGURA TERESA DELIA                                        Miraflores         0    1008.8
+  71422479                  ZARATE DEL POZO HUMBERTO ANTONIO                                 Villa El Salvador         0    5165.8
+  25062013                     GAVIDIA MENDOZA RONALD JOHNNY                            San Juan de Lurigancho     19.02   2300.32
+  49357767                         PATINO CHUNG BEATRIZ ROSA                              San Martin de Porres     18.33   2915.21
+  51873364                                 SEGURA MALCA RONY                                             Rimac     16.39   6071.51
+  95656771                     FARFAN FALCON ELIZABETH KARIN                                         Surquillo     16.27    2634.9
+  30246960                      SUCHERO EPIQUEN EDGAR JAVIER                                             Brena         0     856.8
+  34697743                          ASTETE RIOS CESAR WILVER                                 Santiago de Surco     11.26   3896.66
+  62126128                       MEREL SALAZAR ANNIE LOURDES                                       Santa Anita     10.76   2900.84
+  51642949                               SUELDO RUIZ ANTONIO                              San Martin de Porres         0    4833.3
+  80694546                           DIAZ REYES WALTER EDGAR                                         La Molina     14.54   1346.59
+  65912822                            LAU BACA MONICA TERESA                                        Santa Rosa     10.35   3247.48
+  45201670                               URBINA HIJAR RAFAEL                                       Santa Anita         0         0
+  81539774                              URBINA CASTILLO HELI                                 Magdalena del Mar         0    3423.4
+  77324146                        FALCON PRECIADO ALEX HENRY                                             Brena     19.55   477.068
+  62287143                    DE LA CUBA JUGO LUCERO DELICIA                                      Pueblo Libre         0     883.4
+  52313890                       DURAND MEZA WALDEMAR EDGARD                                             Brena     12.45   2305.72
+  36934113                         SALAS URBINA MAGDA CARMEN                                        Los Olivos     18.33   1989.07
+  58643376                           VILLEGAS LEIVA FELICITA                                         Surquillo         0    2082.3
+  27709566                            SUAREZ MUNOZ MADELEINE                                       Ate Vitarte         0     663.9
+  60543714                  BARRERA MIRANDA ALEXANDER MARTIN                                         San Borja     16.71   3410.48
+  35347567                            FIGUEROA COLLADO EVERT                                       La Victoria         0    2545.8
+  22598563                             MONTERO MONTERO ANNIE                                       Jesus Maria         0    1821.4
+  14956687                        LA HAZA CABRERA ALBERTO DE                                          San Luis      10.8   2276.56
+  59596317                       AYALA VIZCARDO EDGAR MANUEL                                             Rimac     16.21   3731.59
+  93231760                     CHUMPITAZ ALCOCER ANGEL ERICK                                        Los Olivos     19.47   3199.05
+  93939698                      CHUMPITAZ PALOMARES VIRGINIA                                       El Agustino         0    2069.8
+  41964357                       VILLA SEDANO MARTIN JUVENAL                                             Rimac         0    2959.1
+  79133967                             GUEVARA MIYAKE MILENA                                 Magdalena del Mar         0    1137.3
+  72937662                        ROSEMBERG LAU JULIO HENRRY                                             Brena         0    2818.8
+  59199342                     ZAMBRANO MOSCOSO OFELIA MARIA                                      Pueblo Libre         0    4137.3
+  67277765                        CORTEZ SEGURA CARMELA INES                                         Surquillo     17.74   382.098
+  92980780                               VEGA MUNOZ GONZALO                                  Magdalena del Mar         0     171.2
+  65278099                    HIJAR PAIRAZAMAN JENNY DELICIA                           Villa Maria del Triunfo     16.85   55.7105
+  78223294                   ALAMO PAIRAZAMAN MIGUEL ROBERTO                                 Santiago de Surco         0     171.2
+  81334083                          CORONADO FIGUEROA JOHAN                                          San Borja     16.77   184.521
+  49573578                        RUIZ GORDILLO CAROLA ERIKA                                       El Agustino     12.43   89.2338
+  31526241                    CALIXTO TOMASICHE MONICA DORIS                                             Brena      17.1         0
+  80740735                      ANTEZANO SEGURA TERESA DELIA                                             Brena     13.64   566.608
+  73518695                  ZARATE DEL POZO HUMBERTO ANTONIO                            San Juan de Lurigancho         0     410.4
+  76595144                     GAVIDIA MENDOZA RONALD JOHNNY                            San Juan de Lurigancho         0         0
+  37769366                         PATINO CHUNG BEATRIZ ROSA                                         Surquillo         0     854.5
+  40711531                                SEGURA MALCA RONY                                        Ate Vitarte     16.17   514.129
+  82583252                     FARFAN FALCON ELIZABETH KARIN                                 Santiago de Surco         0     495.7
+  31712526                      SUCHERO EPIQUEN EDGAR JAVIER                                       El Agustino     18.91   318.035
+  32352361                          ASTETE RIOS CESAR WILVER                              San Martin de Porres     18.44    53.014
+  51808448                       MEREL SALAZAR ANNIE LOURDES                                             Rimac     16.35   575.596
+  46466842                              SUELDO RUIZ ANTONIO                            Villa Maria del Triunfo         0       210
+  65308391                           DIAZ REYES WALTER EDGAR                              San Martin de Porres         0     424.3
+  56100384                            LAU BACA MONICA TERESA                                         La Molina        19   189.945
+  52650965                              URBINA HIJAR RAFAEL                                         Chorrillos         0      29.7
+  64262396                             URBINA CASTILLO HELI                                      Independencia         0         0
+  22303979                        FALCON PRECIADO ALEX HENRY                                 Villa El Salvador     19.24         0
+  51108372                    DE LA CUBA JUGO LUCERO DELICIA                                 Magdalena del Mar     15.01   44.1098
+  38986512                       DURAND MEZA WALDEMAR EDGARD                                         La Molina     15.11   227.505
+  63230770                         SALAS URBINA MAGDA CARMEN                            San Juan de Lurigancho         0       134
+  86297512                          VILLEGAS LEIVA FELICITA                                    Cercado de Lima     16.19   143.483

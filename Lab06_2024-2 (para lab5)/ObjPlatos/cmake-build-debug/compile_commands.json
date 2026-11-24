@@ -1,0 +1,26 @@
+[
+{
+  "directory": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/ObjPlatos/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\ObjPlatos.dir\\main.cpp.obj -c D:\\PUCP\\LP1\\2026-2\\Ejemplos\\Ejercicios\\ObjPlatos\\main.cpp",
+  "file": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/ObjPlatos/main.cpp",
+  "output": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/ObjPlatos/cmake-build-debug/CMakeFiles/ObjPlatos.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/ObjPlatos/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\ObjPlatos.dir\\Biblioteca\\Cliente.cpp.obj -c D:\\PUCP\\LP1\\2026-2\\Ejemplos\\Ejercicios\\ObjPlatos\\Biblioteca\\Cliente.cpp",
+  "file": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/ObjPlatos/Biblioteca/Cliente.cpp",
+  "output": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/ObjPlatos/cmake-build-debug/CMakeFiles/ObjPlatos.dir/Biblioteca/Cliente.cpp.obj"
+},
+{
+  "directory": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/ObjPlatos/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\ObjPlatos.dir\\Biblioteca\\Plato.cpp.obj -c D:\\PUCP\\LP1\\2026-2\\Ejemplos\\Ejercicios\\ObjPlatos\\Biblioteca\\Plato.cpp",
+  "file": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/ObjPlatos/Biblioteca/Plato.cpp",
+  "output": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/ObjPlatos/cmake-build-debug/CMakeFiles/ObjPlatos.dir/Biblioteca/Plato.cpp.obj"
+},
+{
+  "directory": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/ObjPlatos/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\ObjPlatos.dir\\Biblioteca\\Restaurante.cpp.obj -c D:\\PUCP\\LP1\\2026-2\\Ejemplos\\Ejercicios\\ObjPlatos\\Biblioteca\\Restaurante.cpp",
+  "file": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/ObjPlatos/Biblioteca/Restaurante.cpp",
+  "output": "D:/PUCP/LP1/2026-2/Ejemplos/Ejercicios/ObjPlatos/cmake-build-debug/CMakeFiles/ObjPlatos.dir/Biblioteca/Restaurante.cpp.obj"
+}
+]
