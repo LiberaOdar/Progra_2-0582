@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Datos/PUCP/LP1/2026-2/Ejemplos/ListadeArreglos/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\ListadeArreglos.dir\\main.cpp.obj -c C:\\Datos\\PUCP\\LP1\\2026-2\\Ejemplos\\ListadeArreglos\\main.cpp",
+  "file": "C:/Datos/PUCP/LP1/2026-2/Ejemplos/ListadeArreglos/main.cpp",
+  "output": "C:/Datos/PUCP/LP1/2026-2/Ejemplos/ListadeArreglos/cmake-build-debug/CMakeFiles/ListadeArreglos.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Datos/PUCP/LP1/2026-2/Ejemplos/ListadeArreglos/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\ListadeArreglos.dir\\Biblioteca\\BibliotecaGenerica.cpp.obj -c C:\\Datos\\PUCP\\LP1\\2026-2\\Ejemplos\\ListadeArreglos\\Biblioteca\\BibliotecaGenerica.cpp",
+  "file": "C:/Datos/PUCP/LP1/2026-2/Ejemplos/ListadeArreglos/Biblioteca/BibliotecaGenerica.cpp",
+  "output": "C:/Datos/PUCP/LP1/2026-2/Ejemplos/ListadeArreglos/cmake-build-debug/CMakeFiles/ListadeArreglos.dir/Biblioteca/BibliotecaGenerica.cpp.obj"
+},
+{
+  "directory": "C:/Datos/PUCP/LP1/2026-2/Ejemplos/ListadeArreglos/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\ListadeArreglos.dir\\Biblioteca\\ListaconEnteros.cpp.obj -c C:\\Datos\\PUCP\\LP1\\2026-2\\Ejemplos\\ListadeArreglos\\Biblioteca\\ListaconEnteros.cpp",
+  "file": "C:/Datos/PUCP/LP1/2026-2/Ejemplos/ListadeArreglos/Biblioteca/ListaconEnteros.cpp",
+  "output": "C:/Datos/PUCP/LP1/2026-2/Ejemplos/ListadeArreglos/cmake-build-debug/CMakeFiles/ListadeArreglos.dir/Biblioteca/ListaconEnteros.cpp.obj"
+},
+{
+  "directory": "C:/Datos/PUCP/LP1/2026-2/Ejemplos/ListadeArreglos/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\ListadeArreglos.dir\\Biblioteca\\ListaconRegistros.cpp.obj -c C:\\Datos\\PUCP\\LP1\\2026-2\\Ejemplos\\ListadeArreglos\\Biblioteca\\ListaconRegistros.cpp",
+  "file": "C:/Datos/PUCP/LP1/2026-2/Ejemplos/ListadeArreglos/Biblioteca/ListaconRegistros.cpp",
+  "output": "C:/Datos/PUCP/LP1/2026-2/Ejemplos/ListadeArreglos/cmake-build-debug/CMakeFiles/ListadeArreglos.dir/Biblioteca/ListaconRegistros.cpp.obj"
+}
+]
